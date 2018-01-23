@@ -1,1 +1,1 @@
-Descricao sobre vc
+Quem está no desenvolvimento eh o Leandro
