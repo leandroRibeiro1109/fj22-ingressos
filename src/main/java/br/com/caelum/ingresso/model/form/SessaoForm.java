@@ -41,12 +41,36 @@ public class SessaoForm {
 	}
 
 
-
 	public Integer getSalaId() {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	public LocalTime getHorario() {
+		return horario;
+	}
+
+	public void setHorario(LocalTime horario) {
+		this.horario = horario;
+	}
+
+	public Integer getFilmeId() {
+		return filmeId;
+	}
+
+	public void setFilmeId(Integer filmeId) {
+		this.filmeId = filmeId;
+	}
+
+	
 
 
 }
