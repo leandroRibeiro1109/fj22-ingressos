@@ -35,16 +35,19 @@ public class SessaoForm {
 		return sessao;
 	}
 
-	public void setSalaId(Integer salaId2) {
-		// TODO Auto-generated method stub
-		
-	}
 
 
 	public Integer getSalaId() {
-		// TODO Auto-generated method stub
-		return null;
+		return salaId;
 	}
+
+
+
+	public void setSalaId(Integer salaId) {
+		this.salaId = salaId;
+	}
+
+
 
 	public Integer getId() {
 		return id;
