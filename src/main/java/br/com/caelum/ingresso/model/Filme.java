@@ -41,14 +41,12 @@ public class Filme {
 		return preco;
 	}
 
+   
 	public void setPreco(BigDecimal preco) {
 		this.preco = preco;
 	}
 
-	public void setDuracao(Duration duracao) {
-		this.duracao = duracao;
-	}
-
+	
 	public Integer getId() {
         return id;
     }
